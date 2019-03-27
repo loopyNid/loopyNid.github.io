@@ -3,17 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://loopynid.github.io/posts/ide_fantasy/</loc>
+    <lastmod>2019-03-26T16:15:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://loopynid.github.io/posts/alive-altar/</loc>
+    <lastmod>2019-03-26T16:09:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://loopynid.github.io/posts/a-stepsequencer-made-with-javascript/</loc>
+    <lastmod>2019-03-26T16:09:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://loopynid.github.io/posts/cannikk-an-multiuser-drawing-board/</loc>
+    <lastmod>2017-02-16T15:49:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://loopynid.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://loopynid.github.io/</loc>
+    <lastmod>2019-03-26T16:15:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://loopynid.github.io/posts/</loc>
+    <lastmod>2019-03-26T16:15:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://loopynid.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
